@@ -1,3 +1,3 @@
 # project
 
-Updated from local machine. Cloning Success!!
+Verifying SSH key from local machine. 
